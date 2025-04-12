@@ -47,8 +47,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662864935959/QSn1SEfOl.gif" alt="Snake animation" />
-
-###
