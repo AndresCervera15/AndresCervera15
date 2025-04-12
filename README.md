@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Andres from México <br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Nextjs<br>- ⚡ In my free time I solved rubik's cubes</p>
+<p align="left">I'm Andres from México <br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Nextjs<br>- ⚡ In my free time I solved rubik's cubes <img src="https://w7.pngwing.com/pngs/21/557/png-transparent-rubik-s-cube-thumbnail.png" height="30" alt="rubik"  /></p>
 
 ###
 
